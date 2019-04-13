@@ -1,2 +1,2 @@
 # int-poll
-Spring Integration App
+Spring Integration app to poll messages on the given fixed delay in milliseconds.
