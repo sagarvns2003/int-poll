@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vidya</groupId>
-	<artifactId>int-poll</artifactId>
+	<artifactId>spring-int-polling</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>int-poll</name>
+	<name>spring-int-polling</name>
 
 	<!-- <properties>
 		<java.version>1.11</java.version>

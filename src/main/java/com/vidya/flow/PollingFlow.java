@@ -24,7 +24,6 @@ public class PollingFlow {
 
 				.log(Level.INFO, p -> p.getPayload().toString())
 				// .transform(Object::toString)
-
 				// .handle(System.out::println)
 				.get();
 	}
